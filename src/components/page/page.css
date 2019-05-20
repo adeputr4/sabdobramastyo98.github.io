@@ -1,0 +1,58 @@
+.sekolah{
+    width:150px;
+    height:150px; 
+    background-color:white;
+    border-radius:150px;
+    padding: 40px;
+    margin: 0px 10px 40px 10px;
+    transition: all 0.3s ease;
+}
+.sekolah:hover{
+    margin-top: -20px;
+    margin-bottom:  60px;
+}
+.skill{
+    padding: 50px 20px;
+    background-color: white;
+    width: 100%;
+    box-shadow: 10px black solid;
+    -webkit-box-shadow: 0px 5px 30px 0px rgba(0,0,0,0.1);
+    -moz-box-shadow: 0px 5px 30px 0px rgba(0,0,0,0.1);
+    box-shadow: 0px 5px 30px 0px rgba(0,0,0,0.1);
+}
+
+.holder{
+    width: 100%;
+    background-color: #f7f8ff;
+    padding: 100px 0px;
+}
+
+.something{
+    box-shadow: 10px black solid;
+    -webkit-box-shadow: 0px 5px 30px 0px rgba(0,0,0,0.1);
+    -moz-box-shadow: 0px 5px 30px 0px rgba(0,0,0,0.1);
+    box-shadow: 0px 5px 30px 0px rgba(0,0,0,0.1);
+}
+
+.something-left{
+    background-color: #4959ff;
+    padding: 50px;
+    color: white;
+}
+
+.something-right{
+    background-color: white;
+    padding: 50px;
+}
+
+.footer{
+    background-color: #111111;
+    width: 100%;
+    padding: 100px 0px;
+    margin-bottom: 0px;
+}
+
+.home-img{
+    width:100%;
+    height: auto;
+}
